@@ -1,9 +1,12 @@
 # 3daberdeen
 3DAberdeen is a project for making a virtual world of aberdeen inside your browser
 
-Inspired by https://github.com/CodeTheCity/3daberdeen.git  render Aberdeen City Centre .
+There is an existing opensource project that we can fork https://github.com/vizicities/vizicities
 
-Learn three.js http://learningthreejs.com/blog/2011/07/15/threejs-installation/
+Example:  http://vizicities.apps.rawk.es/demo.html#57.145245200000005,-2.0913744
+
+Uses open street map data, fuller intro can be found at http://rawkes.com/articles/vizicities-dev-diary-1
+
 
 # Usage
 
